@@ -1,0 +1,33 @@
+INFO:root:API stands for application programming interface.API acts as a communication layer, or as the name says, an interface, that allows different systems to talk to each other without having to understand exactly what each other does. APIs can come in many forms or shapes.
+INFO:root:Gpay mobile app,interface between makemytrip and indio/airindia website, google search,login to pinterest
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 1; new: 1
+DEBUG:parso.python.diff:-> code[replace] old[1:1] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:parso.python.diff:diff parser end
+INFO:root:API is simple,scalability and flexible
+Efficiency: When you have content that is automatically published and made available on different channels simultaneously, APIs allow for more efficient data distribution
+Adaptability: One of the greatest benefits of APIs is the ability it has to adapt to changes through data migration and flexibility of services.
+INFO:root:API is a gateway and can become a hacker's primary target because less of security.It is not light weight
+INFO:root:A Web API is an application programming interface for the Web. A Browser API can extend the functionality of a web browser. A Server API can extend the functionality of a web server.
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: a89398ce-88c1-429a-bb0b-a0a6c0af960f
+DEBUG:Comm:Current comms: []
+INFO:root:Efficiency: When you have content that is automatically published and made available on different channels simultaneously, APIs allow for more efficient data distribution
+Adaptability: One of the greatest benefits of APIs is the ability it has to adapt to changes through data migration and flexibility of services.
+INFO:root:API is a gateway and can become a hacker's primary target.
+INFO:root:API is a gateway and can become a hacker's primary target.
+INFO:root:A Web API is an application programming interface for the Web. A Browser API can extend the functionality of a web browser. A Server API can extend the functionality of a web server.'
+INFO:root:Both APIs and web services are technologies that enable the transfer of data between separate software applications. API is an interface that exposes an application's data to outside software, whereas web applications are one type of API with stricter requirements
+INFO:root:REST is a software architectural style that defines the set of rules to be used for creating web services. Web services which follow the REST architectural style are known as RESTful web services. It allows requesting systems to access and manipulate web resources by using a uniform and predefined set of rules
+INFO:root:SOAP is a protocol for the exchange of information in a distributed environment. SOAP messages are encoded as XML documents and can be exchanged using various underlying protocols.
+INFO:root:implimentation is highly complex.
+INFO:root:No variety of data formats.
+INFO:root:SOAP is also extremely limited in its support of data formats.
+INFO:root:API calls are not cached
+INFO:root:only transfer messages as XML files
+INFO:root:A XML-based message protocol.Uses WSDL for communication between consumer and provider.Invokes services by calling RPC method.Does not return human readable result.Transfer is over HTTP. Also uses other protocols such as SMTP, FTP, etc..Performance is not great compared to REST
+INFO:root:An architectural style protocol.Uses XML or JSON to send and receive data.Simply calls services via URL path.Result is readable which is just plain XML or JSON.Transfer is over HTTP only.Transfer is over HTTP only.Performance is much better compared to SOAP.less CPU intensive, leaner code etc.
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 37dcd6ee-7601-43b3-b9af-ea4bbe84a2ed
+DEBUG:Comm:Current comms: []
